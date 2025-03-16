@@ -1,0 +1,32 @@
+{
+  "name": "clone-pump-fun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyen-dev-9921/clone-pump-fun.git"
+  },
+  "author": "nguyen.tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyen-dev-9921/clone-pump-fun/issues"
+  },
+  "homepage": "https://github.com/nguyen-dev-9921/clone-pump-fun#readme",
+  "description": "",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0",
+    "next": "^15.2.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19"
+  }
+}
